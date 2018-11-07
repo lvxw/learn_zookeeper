@@ -1,0 +1,12 @@
+.idea
+.settings
+.classpath
+target
+*.iml
+.project
+.cache-main
+jar
+tmp
+venv
+classes
+dependency-reduced-pom.xml
